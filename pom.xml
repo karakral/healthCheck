@@ -2,6 +2,24 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
+<!--    <developers>-->
+<!--        <developer>-->
+<!--            <id>karakral</id>-->
+<!--            <name>Mohsen Fahmi</name>-->
+<!--            <email>mahsun.fahmy@gmail.com</email>-->
+<!--                    <url>http://www.example.com/karakral</url>-->
+<!--            <organization>Faraboom</organization>-->
+<!--            <organizationUrl>https://faraboom.ir/</organizationUrl>-->
+
+<!--            <roles>-->
+<!--                <role>developer</role>-->
+<!--            </roles>-->
+<!--            <timezone>Iran/Tehran</timezone>-->
+<!--            <properties>-->
+<!--                <picUrl>http://www.example.com/karakral/pic</picUrl>-->
+<!--            </properties>-->
+<!--        </developer>-->
+<!--    </developers>-->
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
